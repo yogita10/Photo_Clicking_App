@@ -18,7 +18,11 @@ cd Photo_Clicking_App
  npm run android 
 ```
 
-#Tech Stack Used:
+# Tech Stack Used:
 React Native 
 
-![photoclicking](https://user-images.githubusercontent.com/54748438/150800879-2cca4f9e-85ad-4553-a23b-1d86b67a8cd6.gif)
+
+
+
+https://user-images.githubusercontent.com/54748438/150801992-5717bf2e-60c4-497e-96e5-d95056ae9f9c.mp4
+
