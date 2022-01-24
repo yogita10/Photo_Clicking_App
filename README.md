@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/54748438/150801992-5717bf2e-60c4-497e-
 ```sh
 git clone https://github.com/yogita10/Photo_Clicking_App.git
 ```
-2. Go to the clone folder
+2. Go to the cloned folder
 ```sh
 cd Photo_Clicking_App
 ```
